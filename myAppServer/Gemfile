@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem 'redis'
+gem 'rack'
+gem 'beaneater'
+gem 'sinatra'
+gem 'thin'

@@ -1,0 +1,5 @@
+# Logfile created on 2015-07-16 13:31:44 +0300 by logger.rb/41954
+I, [2015-07-16T13:31:44.958009 #18934]  INFO -- : Started controller at localhost:8899
+I, [2015-07-16T13:32:38.231686 #18937]  INFO -- : Started controller at localhost:8899
+I, [2015-07-16T13:33:27.354070 #18950]  INFO -- : Started controller at localhost:8899
+I, [2015-07-16T13:33:52.851083 #18953]  INFO -- : Started controller at localhost:8899
